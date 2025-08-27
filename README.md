@@ -7,7 +7,7 @@
 ## 📌 Overview
 
 * **Token Name:** Polymers Token
-* **Symbol:** `POLY`
+* **Symbol:** `PLY`
 * **Blockchain:** Solana
 * **Token Standard:** SPL Token (Solana Program Library)
 * **Decimals:** 9
@@ -19,7 +19,7 @@
   * Access to premium features in the Polymers ecosystem
   * Trading on Solana DEXes (Raydium, Jupiter, Orca)
 
-* **CA:**
+* **CA:** PLYKdaCUgxTUw6rSjWbgSN97Qtecb6Fy6SazWf1tvAC
 
 ---
 
