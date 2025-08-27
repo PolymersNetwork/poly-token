@@ -1,0 +1,47 @@
+{
+  "name": "POLY",
+  "symbol": "POLY",
+  "decimals": 9,
+  "description": "POLY is the native utility and rewards token of the Polymers Network, powering a circular economy for plastics through blockchain, incentives, and transparency.",
+  "image": "https://raw.githubusercontent.com/PolymersNetwork/assets/main/poly-token.png",
+  "external_url": "https://polymers.network",
+  "attributes": [
+    {
+      "trait_type": "Total Supply",
+      "value": "18.44 Billion"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Solana"
+    },
+    {
+      "trait_type": "Use Case",
+      "value": "Utility & Rewards"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Sustainability / ESG"
+    }
+  ],
+  "socials": {
+    "x": "https://x.com/PolymersNetwork",
+    "telegram": "https://t.me/PolymersNetwork"
+  },
+  "keywords": [
+    "POLY",
+    "Polymers",
+    "Polymers Network",
+    "Solana",
+    "SPL Token",
+    "cryptocurrency",
+    "token",
+    "circular economy",
+    "plastic recycling",
+    "sustainability",
+    "green tech",
+    "defi",
+    "staking",
+    "governance",
+    "esg"
+  ]
+}

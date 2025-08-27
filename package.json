@@ -1,0 +1,35 @@
+{
+  "name": "poly-token",
+  "version": "1.0.0",
+  "description": "POLY is the native utility and rewards token of the Polymers Network, powering a circular economy for plastics through blockchain, incentives, and transparency.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "POLY",
+    "Polymers",
+    "Polymers Network",
+    "token",
+    "cryptocurrency",
+    "blockchain",
+    "solana",
+    "sustainability",
+    "circular economy",
+    "recycling",
+    "plastic",
+    "green tech",
+    "environment",
+    "governance",
+    "staking",
+    "defi",
+    "esg",
+    "web3"
+  ],
+  "author": "Polymers Network",
+  "license": "MIT",
+  "dependencies": {
+    "@solana/spl-token": "^0.4.13",
+    "@solana/web3.js": "^1.98.4"
+  }
+}
