@@ -19,6 +19,8 @@
   * Access to premium features in the Polymers ecosystem
   * Trading on Solana DEXes (Raydium, Jupiter, Orca)
 
+* **CA:**
+
 ---
 
 ## 🔄 Token Flow
